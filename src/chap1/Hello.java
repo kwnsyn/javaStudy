@@ -1,4 +1,4 @@
-package day1;
+package chap1;
 
 /*
  * Date : 2022.12.28
