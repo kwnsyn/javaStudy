@@ -6,20 +6,20 @@ package chap1;
  * Author : soyun.kwon
  */
 public class Hello {
-	public static void main(String[] args) {	// main¸Ş¼­µåÀÇ ¼±¾ğºÎ
+	public static void main(String[] args) {	// mainë©”ì„œë“œì˜ ì„ ì–¸ë¶€
 		System.out.println("Hello World!!!");
 		
-		// ÇÑÁÙ ÁÖ¼®
-		/* ¹üÀ§ ÁÖ¼® */
+		// í•œì¤„ ì£¼ì„
+		/* ë²”ìœ„ ì£¼ì„ */
 		
-		System.out.println("Hello,/* ÀÌ°ÍÀº ÁÖ¼®À¸·Î Ãë±ŞµÇÁö ¾ÊÀ½ */ World!!!");
-		System.out.println("Hello, World!!! //ÀÌ°Íµµ ÁÖ¼®À¸·Î Ãë±ŞµÇÁö ¾ÊÀ½");
+		System.out.println("Hello,/* ì´ê²ƒì€ ì£¼ì„ìœ¼ë¡œ ì·¨ê¸‰ë˜ì§€ ì•ŠìŒ */ World!!!");
+		System.out.println("Hello, World!!! //ì´ê²ƒë„ ì£¼ì„ìœ¼ë¡œ ì·¨ê¸‰ë˜ì§€ ì•ŠìŒ");
 	}
 }
 
 
 
-//½ÇÇà °á°ú
+//ì‹¤í–‰ ê²°ê³¼
 //Hello World!!!
-//Hello,/* ÀÌ°ÍÀº ÁÖ¼®À¸·Î Ãë±ŞµÇÁö ¾ÊÀ½ */ World!!!
-//Hello, World!!! //ÀÌ°Íµµ ÁÖ¼®À¸·Î Ãë±ŞµÇÁö ¾ÊÀ½
+//Hello,/* ì´ê²ƒì€ ì£¼ì„ìœ¼ë¡œ ì·¨ê¸‰ë˜ì§€ ì•ŠìŒ */ World!!!
+//Hello, World!!! //ì´ê²ƒë„ ì£¼ì„ìœ¼ë¡œ ì·¨ê¸‰ë˜ì§€ ì•ŠìŒ
